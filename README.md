@@ -7,9 +7,9 @@ Feel free to use, and reach out to us with any questions or suggestions! `abortv
 
 Course website: https://andrew-bortvin.github.io/mbp23.github.io/syllabus/
 
-Day 1: Exponential and Logistic Growth 
-Day 2: Multi-Population Dynamics 
-Day 3: Wright-Fisher
-Day 4: Advanced Wright-Fisher
-Day 5: Build Your Own Model! 
-Day 6: SEIR Disease Modeling 
+Day 1: Exponential and Logistic Growth \
+Day 2: Multi-Population Dynamics \
+Day 3: Wright-Fisher \
+Day 4: Advanced Wright-Fisher \
+Day 5: Build Your Own Model! \
+Day 6: SEIR Disease Modeling \
