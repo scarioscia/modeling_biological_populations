@@ -12,4 +12,6 @@ Day 2: Multi-Population Dynamics \
 Day 3: Wright-Fisher \
 Day 4: Advanced Wright-Fisher \
 Day 5: Build Your Own Model! \
-Day 6: SEIR Disease Modeling 
+Day 6: SEIR Disease Modeling \ 
+
+This directory also includes two sets of prep work (`Introduction_to_Python` parts 1 and 2), as well as optional Python practice (`Functions,_iterating_over_variables.ipynb`) for students newer to the language or coding in general. 
