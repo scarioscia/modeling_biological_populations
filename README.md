@@ -31,4 +31,4 @@ To launch these resources in Google Colab (see notebook [here](https://github.co
 
 ## Updating the Module  
 
-Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out directly to Andrew (abortvi2@jhu.edu) or Sara (saracarioscia@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please submit an issue directly on GitHub. 
+Feel free to use this if you have a group of students who might benefit - or if you're a curious biologist yourself! Reach out to Andrew (abortvi2@jhu.edu) or Sara (saracarioscia@jhu.edu) if you have any questions or suggestions. If there's a feature or other update you'd like added, please submit an issue directly on GitHub. 
